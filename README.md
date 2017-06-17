@@ -9,4 +9,11 @@ Contains multiple files
 
 
 # How-To-Start
-click on EntertainmentCenter or Run using an ide
+IF you have python3.x installed then
+      click on EntertainmentCenter
+      or open IDLE and press F5 to run it 
+ELSE
+      go to (https://www.python.org/) and download python 3.x and install** it
+      
+**install instruction
+  http://hep-outreach.uchicago.edu/samples/python_setup/
